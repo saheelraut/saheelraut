@@ -13,3 +13,7 @@ About me
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: My last meal on earth would have Guacamole!
 
+
+![Saheel's GitHub stats](https://github-readme-stats.vercel.app/api?username=saheelraut&show_icons=true&theme=radical)
+
+
