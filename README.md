@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **saheelraut/saheelraut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: https://www.linkedin.com/in/saheelraut/ or saheelraut@gmail.com
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: My last meal on earth would have Guacamole!
--->
+
